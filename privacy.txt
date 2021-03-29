@@ -1,0 +1,13 @@
+COLLECTION AND USE OF PERSONAL INFORMATION
+This privacy policy specifies that we do not send your personal information anywhere in any way.
+We do not store any of your information, related or unrelated to the app in any off-device location and does not supply such information to any third party.
+
+WE USE OR PLAN TO USE THE FOLLOWING GOOGLE SERVICES
+AdMob (display ads in the app)
+
+CHANGES TO OUR PRIVACY POLICY
+We reserve the right to modify our Privacy Policy at any time simply by posting modification on this file without any notification.
+Any such modification will be effective immediately upon posting.
+It is your responsibility to review our Privacy Policy from time to time to ensure that you continue to agree with all of its terms.
+
+Last updated: March 29, 2021 GMT
