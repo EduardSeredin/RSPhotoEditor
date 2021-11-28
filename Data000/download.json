@@ -1,0 +1,53 @@
+{
+    "version" : 3,
+    "date" : "28.11.2021",
+    "size" : 210739388,
+    "md5" : "",
+    "parts" : [
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data000.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data001.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data002.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data003.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data004.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data005.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data006.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data007.dat?raw=true",
+            "size" : 25165824,
+            "md5" : ""
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data000/data008.dat?raw=true",
+            "size" : 9412796,
+            "md5" : ""
+        }
+    ]
+}
