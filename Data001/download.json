@@ -1,1 +1,32 @@
-
+{
+    "version" : 4,
+    "date" : "08.06.2023",
+    "size" : 105327854,
+    "parts" : [
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data001/data000.dat?raw=true",
+            "size" : 25000000,
+            "md5" : "1A3EBC75D2A0AC5FAD02CCC935941FE2"
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data001/data001.dat?raw=true",
+            "size" : 25000000,
+            "md5" : "E213F5491FB1343A3C81FC1BFF9E0DA2"
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data001/data002.dat?raw=true",
+            "size" : 25000000,
+            "md5" : "10C852085244B97C7043DEE853E0ED23"
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data001/data003.dat?raw=true",
+            "size" : 25000000,
+            "md5" : "E85DD378B14AD2D8C7C48D8703AC3534"
+        },
+        {
+            "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data001/data004.dat?raw=true",
+            "size" : 5327854,
+            "md5" : "768CDB4385FCD6FC49E7B44F33C5952D"
+        }
+    ]
+}
