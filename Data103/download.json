@@ -1,7 +1,7 @@
 {
     "version" : 4,
     "date" : "08.06.2023",
-    "size" : 64565526,
+    "size" : 64564106,
     "parts" : [
         {
             "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data103/data000.dat?raw=true",
@@ -15,7 +15,7 @@
         },
         {
             "path" : "https://github.com/EduardSeredin/RSPhotoEditor/blob/main/Data103/data002.dat?raw=true",
-            "size" : 14565526,
+            "size" : 14564106,
             "md5" : "473F983253AA3AF58E1BA6BC73DC1C9A"
         }
     ]
